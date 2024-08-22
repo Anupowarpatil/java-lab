@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Execption{
+class Basic{
 	public static void main(String args[])
 	{
 		System.out.println("Program is started");
